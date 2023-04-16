@@ -26,7 +26,7 @@ button {
     --background-solid-darker: #0c0e12;
     --accent: 37, 172, 232;
     --accent-alt: 29, 101, 134;
-    --black: 110, 110, 110;
+    --black: 0, 0, 0;
     --white: 255, 255, 255;
     /* BlurpleRecolor */
     --accentcolor: var(--accent);
@@ -527,7 +527,7 @@ div[aria-label*="_SETTINGS"] aside>div::-webkit-scrollbar-track {
 div[class*="topPill"],
 nav>div[role="tablist"],
 .bd-tab-bar {
-    --background-accent: rgba(var(--accent));
+    --background-accent: rgb(149, 30, 30);
     --background-modifier-hover: rgba(var(--white), 0.05);
     --background-modifier-active: rgba(var(--white), 0.075);
     --background-modifier-selected: rgba(var(--accent), 0.25);
