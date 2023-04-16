@@ -15,7 +15,7 @@ button {
 /* Root Variables */
 
 :root {
-    --font-primary: 'Times New Roman', sans-serif;
+    --font-primary: 'Comic Sans MS', sans-serif;
     --font-display: var(--font-primary) !important;
     /* Dark Matter Variables */
     --avatar-size: 32px;
