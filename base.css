@@ -394,6 +394,7 @@ div[data-list-id="chat-messages"] {
     --background-primary: transparent;
     --background-secondary: rgba(var(--red), 0.05);
     --background-accent: rgba(var(--white), 0.1);
+    font-size: 30px;
 }
 
 div[class^="channelTextArea-"] {
